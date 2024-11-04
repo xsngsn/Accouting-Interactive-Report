@@ -1,0 +1,29 @@
+@media print {
+    #report {
+      width: 100%;
+      margin: 0;
+    }
+  
+    .text-center {
+      text-align: center;
+    }
+  
+    .p-2 {
+      padding: 8px;
+    }
+  
+    button {
+      display: none;
+    }
+  
+    hr {
+      margin: 10px 0;
+    }
+  
+    .total-section {
+      margin-top: 20px;
+      font-weight: bold;
+      text-align: center;
+    }
+  }
+  
